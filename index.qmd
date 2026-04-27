@@ -1,0 +1,118 @@
+---
+title: "Deserción Estudiantil"
+format: html
+---
+# Análisis de Deserción Estudiantil
+
+## Introducción
+
+La deserción estudiantil constituye una problemática relevante en la educación superior, ya que impacta tanto en la trayectoria académica de los estudiantes como en los indicadores institucionales. Este proyecto tiene como propósito analizar patrones asociados a la deserción mediante el uso de variables académicas, específicamente el rendimiento y la asistencia.
+
+A través de técnicas de análisis de datos y visualización, se busca identificar comportamientos que permitan anticipar posibles casos de abandono, proporcionando así información útil para la toma de decisiones.
+
+---
+
+## Objetivo general
+
+Analizar la deserción estudiantil mediante variables académicas para identificar patrones asociados al abandono.
+
+## Objetivos específicos
+
+* Caracterizar el comportamiento académico de los estudiantes
+* Analizar la relación entre faltas y rendimiento
+* Identificar niveles de riesgo académico
+* Visualizar patrones de deserción
+* Apoyar la toma de decisiones institucional
+
+---
+
+## Indicadores del proyecto
+
+<div style="display:flex; gap:20px;">
+
+<div style="flex:1; padding:25px; border-radius:12px; background:#f1f5f9;">
+<h3>Estudiantes</h3>
+<h1>+1000</h1>
+</div>
+
+<div style="flex:1; padding:25px; border-radius:12px; background:#e0f2fe;">
+<h3>Variables</h3>
+<h1>+30</h1>
+</div>
+
+<div style="flex:1; padding:25px; border-radius:12px; background:#ecfccb;">
+<h3>Análisis</h3>
+<h1>5</h1>
+</div>
+
+</div>
+
+---
+
+## Metodología
+
+El análisis se desarrolló en tres etapas principales:
+
+1. **Preparación de datos**
+   Limpieza, transformación y construcción de variables clave como faltas totales y deserción.
+
+2. **Análisis y visualización**
+   Uso de gráficos interactivos para explorar relaciones entre variables.
+
+3. **Interpretación**
+   Identificación de patrones de riesgo académico y posibles factores asociados a la deserción.
+
+---
+
+## Modelo de Munzner aplicado
+
+El presente proyecto se fundamenta en el modelo de visualización propuesto por Munzner, el cual estructura el análisis en cuatro niveles:
+
+### 1. Dominio
+
+El problema se centra en la deserción estudiantil en educación superior.
+
+### 2. Abstracción
+
+Se seleccionaron variables relevantes como:
+
+* Nota final
+* Faltas
+* Estado de retiro
+
+Estas variables representan el comportamiento académico.
+
+### 3. Codificación visual
+
+Se emplearon gráficos interactivos para representar:
+
+* Relaciones entre variables
+* Distribución de datos
+* Identificación de patrones
+
+### 4. Algoritmos
+
+Se construyó una variable de **riesgo académico**, combinando:
+
+* Rendimiento (nota)
+* Asistencia (faltas)
+
+Esto permite pasar de un análisis binario a uno predictivo.
+
+---
+
+## Navegación del proyecto
+
+<div style="display:flex; gap:20px;">
+
+<div style="flex:1; padding:20px; border:1px solid #ccc; border-radius:10px;">
+<h3>Limpieza de datos</h3>
+<p>Procesamiento y preparación del dataset.</p>
+</div>
+
+<div style="flex:1; padding:20px; border:1px solid #ccc; border-radius:10px;">
+<h3>Visualizaciones</h3>
+<p>Análisis mediante gráficos interactivos.</p>
+</div>
+
+</div>

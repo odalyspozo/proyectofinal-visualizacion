@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "visualizations.html",
+    "href": "visualizations.html",
+    "title": "Análisis y Visualizaciones",
+    "section": "",
+    "text": "El análisis aborda la deserción como un fenómeno gradual asociado al rendimiento académico y la asistencia. Aunque la deserción observada es baja en términos absolutos, se construyó una variable de riesgo académico que permite identificar patrones potenciales de abandono en función del rendimiento y la asistencia.\n\n\n\n\nSe utiliza un diagrama de dispersión para examinar simultáneamente la relación entre faltas, nota final y riesgo académico, permitiendo identificar patrones no lineales y zonas críticas.\n\n\n\n\n\n\nInterpretación Se observa una relación inversa entre asistencia y rendimiento: a medida que aumentan las faltas, disminuye la nota final. La variable de riesgo intensifica esta relación, evidenciando que estudiantes con alta inasistencia y bajo rendimiento se concentran en zonas de mayor vulnerabilidad académica. Conclusión La asistencia constituye un determinante clave del rendimiento y, en conjunto, ambos factores configuran un patrón consistente de riesgo académico.\n\n\n\n\n\n\nSe emplea un gráfico de densidad o dispersión avanzada para identificar clusters o agrupaciones de estudiantes con comportamientos similares.\n\n\n\n\n\n\nInterpretación Se identifican agrupaciones diferenciadas de estudiantes: un grupo con alto rendimiento y baja inasistencia, y otro con características opuestas. Estas concentraciones sugieren heterogeneidad en los patrones académicos. Conclusión El riesgo no se distribuye de manera uniforme, sino que se concentra en subconjuntos específicos de estudiantes.\n\n\n\n\n\n\nSe utiliza un histograma o distribución suavizada para analizar la forma de la variable de riesgo.\n\n\n\n\n\n\nInterpretación La distribución del riesgo presenta asimetría, con mayor concentración en niveles bajos y una cola hacia valores altos, lo que indica la presencia de casos críticos aunque menos frecuentes. Conclusión El fenómeno de riesgo académico es minoritario en términos extremos, pero relevante para la intervención focalizada.\n\n\n\n\n\n\nSe analiza la variación del riesgo por carrera mediante visualización comparativa, destacando diferencias estructurales entre programas académicos.\n\n\n\n\n\n\nInterpretación Se observan diferencias significativas entre carreras, lo que sugiere que factores curriculares, carga académica o contexto influyen en el comportamiento del estudiante. Conclusión El riesgo académico presenta variaciones estructurales asociadas a la carrera, lo que justifica estrategias diferenciadas.\n\n\n\n\n\n\nSe evalúa la evolución del riesgo por nivel académico para identificar etapas críticas dentro del proceso formativo.\n\n\n\n\n\n\nInterpretación Se identifican niveles donde el riesgo aumenta, posiblemente asociados a transiciones académicas o incremento en la complejidad de contenidos. Conclusión Existen etapas críticas en la trayectoria académica donde el riesgo se incrementa, lo que permite focalizar intervenciones institucionales.\n\n\n\n\n\n\nEl análisis confirma que la deserción no debe entenderse únicamente como un evento final, sino como un proceso gradual vinculado al desempeño académico. La integración de variables de asistencia y rendimiento permite construir una medida robusta de riesgo, útil para la toma de decisiones institucionales.\n\n\nOdalys Pozo"
+  },
+  {
+    "objectID": "visualizations.html#pregunta-1.-cómo-se-relacionan-la-asistencia-y-el-rendimiento-académico-con-el-riesgo-de-deserción",
+    "href": "visualizations.html#pregunta-1.-cómo-se-relacionan-la-asistencia-y-el-rendimiento-académico-con-el-riesgo-de-deserción",
+    "title": "Análisis y Visualizaciones",
+    "section": "",
+    "text": "Se utiliza un diagrama de dispersión para examinar simultáneamente la relación entre faltas, nota final y riesgo académico, permitiendo identificar patrones no lineales y zonas críticas.\n\n\n\n\n\n\nInterpretación Se observa una relación inversa entre asistencia y rendimiento: a medida que aumentan las faltas, disminuye la nota final. La variable de riesgo intensifica esta relación, evidenciando que estudiantes con alta inasistencia y bajo rendimiento se concentran en zonas de mayor vulnerabilidad académica. Conclusión La asistencia constituye un determinante clave del rendimiento y, en conjunto, ambos factores configuran un patrón consistente de riesgo académico."
+  },
+  {
+    "objectID": "visualizations.html#pregunta-2.-existen-concentraciones-específicas-de-riesgo-académico-dentro-del-conjunto-de-estudiantes",
+    "href": "visualizations.html#pregunta-2.-existen-concentraciones-específicas-de-riesgo-académico-dentro-del-conjunto-de-estudiantes",
+    "title": "Análisis y Visualizaciones",
+    "section": "",
+    "text": "Se emplea un gráfico de densidad o dispersión avanzada para identificar clusters o agrupaciones de estudiantes con comportamientos similares.\n\n\n\n\n\n\nInterpretación Se identifican agrupaciones diferenciadas de estudiantes: un grupo con alto rendimiento y baja inasistencia, y otro con características opuestas. Estas concentraciones sugieren heterogeneidad en los patrones académicos. Conclusión El riesgo no se distribuye de manera uniforme, sino que se concentra en subconjuntos específicos de estudiantes."
+  },
+  {
+    "objectID": "visualizations.html#pregunta-3.-cómo-se-distribuye-el-riesgo-académico-en-la-población-estudiantil",
+    "href": "visualizations.html#pregunta-3.-cómo-se-distribuye-el-riesgo-académico-en-la-población-estudiantil",
+    "title": "Análisis y Visualizaciones",
+    "section": "",
+    "text": "Se utiliza un histograma o distribución suavizada para analizar la forma de la variable de riesgo.\n\n\n\n\n\n\nInterpretación La distribución del riesgo presenta asimetría, con mayor concentración en niveles bajos y una cola hacia valores altos, lo que indica la presencia de casos críticos aunque menos frecuentes. Conclusión El fenómeno de riesgo académico es minoritario en términos extremos, pero relevante para la intervención focalizada."
+  },
+  {
+    "objectID": "visualizations.html#pregunta-4.-qué-diferencias-existen-en-el-riesgo-académico-según-la-carrera",
+    "href": "visualizations.html#pregunta-4.-qué-diferencias-existen-en-el-riesgo-académico-según-la-carrera",
+    "title": "Análisis y Visualizaciones",
+    "section": "",
+    "text": "Se analiza la variación del riesgo por carrera mediante visualización comparativa, destacando diferencias estructurales entre programas académicos.\n\n\n\n\n\n\nInterpretación Se observan diferencias significativas entre carreras, lo que sugiere que factores curriculares, carga académica o contexto influyen en el comportamiento del estudiante. Conclusión El riesgo académico presenta variaciones estructurales asociadas a la carrera, lo que justifica estrategias diferenciadas."
+  },
+  {
+    "objectID": "visualizations.html#pregunta-5.-cómo-varía-el-riesgo-académico-a-lo-largo-de-los-niveles-de-formación",
+    "href": "visualizations.html#pregunta-5.-cómo-varía-el-riesgo-académico-a-lo-largo-de-los-niveles-de-formación",
+    "title": "Análisis y Visualizaciones",
+    "section": "",
+    "text": "Se evalúa la evolución del riesgo por nivel académico para identificar etapas críticas dentro del proceso formativo.\n\n\n\n\n\n\nInterpretación Se identifican niveles donde el riesgo aumenta, posiblemente asociados a transiciones académicas o incremento en la complejidad de contenidos. Conclusión Existen etapas críticas en la trayectoria académica donde el riesgo se incrementa, lo que permite focalizar intervenciones institucionales."
+  },
+  {
+    "objectID": "visualizations.html#conclusión-general",
+    "href": "visualizations.html#conclusión-general",
+    "title": "Análisis y Visualizaciones",
+    "section": "",
+    "text": "El análisis confirma que la deserción no debe entenderse únicamente como un evento final, sino como un proceso gradual vinculado al desempeño académico. La integración de variables de asistencia y rendimiento permite construir una medida robusta de riesgo, útil para la toma de decisiones institucionales.\n\n\nOdalys Pozo"
+  },
+  {
+    "objectID": "data_cleaning.html",
+    "href": "data_cleaning.html",
+    "title": "1 Preparación de datos",
+    "section": "",
+    "text": "title: “Limpieza” format: html —"
+  },
+  {
+    "objectID": "data_cleaning.html#carga",
+    "href": "data_cleaning.html#carga",
+    "title": "1 Preparación de datos",
+    "section": "1.1 Carga",
+    "text": "1.1 Carga\n\nimport pandas as pd\n\ndf = pd.read_excel(\"C:/Users/ACER/Desktop/visualizacion_proyecto/DATASET UNIANDES.xlsx\")\ndf.head()\n\n\n\n\n\n\n\n\ncedula_alumno\napellido\nnombre\ncelular\nemail\nemail_institucional\ncarrera\ncodigo_nivel\nnivel\nparalelo\n...\nsumatoriaparcial4\nfaltas4\nexamen_final\nrecuperacion\nNOTA FINAL\naprobado\ntipo\nbeca\ntercera_matricula\npierdeFaltas\n\n\n\n\n0\n1005056203\nBORJA DELGADO\nARIANNA VANESSA\n967261772\nsailenisborja06@gmail.com\nariannabd03@uniandes.edu.ec\nOBSTETRICIA\nOBS01M\nPRIMER\nA\n...\nNaN\n5\nNaN\n0.0\n2.4\nFalse\nN\n0\n0\n0\n\n\n1\n1005056203\nBORJA DELGADO\nARIANNA VANESSA\n967261772\nsailenisborja06@gmail.com\nariannabd03@uniandes.edu.ec\nOBSTETRICIA\nOBS01M\nPRIMER\nA\n...\nNaN\n0\nNaN\n0.0\n3.2\nFalse\nN\n0\n0\n0\n\n\n2\n1005056203\nBORJA DELGADO\nARIANNA VANESSA\n967261772\nsailenisborja06@gmail.com\nariannabd03@uniandes.edu.ec\nOBSTETRICIA\nOBS01M\nPRIMER\nA\n...\nNaN\n0\nNaN\n0.0\n2.7\nFalse\nN\n0\n0\n0\n\n\n3\n1005056203\nBORJA DELGADO\nARIANNA VANESSA\n967261772\nsailenisborja06@gmail.com\nariannabd03@uniandes.edu.ec\nOBSTETRICIA\nOBS01M\nPRIMER\nA\n...\nNaN\n10\nNaN\n0.0\n2.9\nFalse\nN\n0\n0\n0\n\n\n4\n1005056203\nBORJA DELGADO\nARIANNA VANESSA\n967261772\n|\nariannabd03@uniandes.edu.ec\nOBSTETRICIA\nOBS01M\nPRIMER\nA\n...\nNaN\n0\nNaN\n0.0\n3.7\nFalse\nN\n0\n0\n0\n\n\n\n\n5 rows × 35 columns"
+  },
+  {
+    "objectID": "data_cleaning.html#normalización",
+    "href": "data_cleaning.html#normalización",
+    "title": "1 Preparación de datos",
+    "section": "1.2 Normalización",
+    "text": "1.2 Normalización\n\ndf.columns = df.columns.str.strip().str.lower().str.replace(\" \", \"_\")"
+  },
+  {
+    "objectID": "data_cleaning.html#limpieza",
+    "href": "data_cleaning.html#limpieza",
+    "title": "1 Preparación de datos",
+    "section": "1.3 Limpieza",
+    "text": "1.3 Limpieza\n\ndf[\"nota_final\"] = pd.to_numeric(df[\"nota_final\"], errors=\"coerce\")\ndf = df.dropna(subset=[\"nota_final\"])\ndf = df[(df[\"nota_final\"] &gt;= 0) & (df[\"nota_final\"] &lt;= 10)]"
+  },
+  {
+    "objectID": "data_cleaning.html#variables",
+    "href": "data_cleaning.html#variables",
+    "title": "1 Preparación de datos",
+    "section": "1.4 Variables",
+    "text": "1.4 Variables\n\nfaltas_cols = [\"faltas\",\"faltas2\",\"faltas3\",\"faltas4\"]\n\ndf[\"faltas_total\"] = df[faltas_cols].sum(axis=1)\ndf[\"desercion\"] = df[\"retirado\"].astype(str).str.upper().map({\"T\":1,\"F\":0})"
+  },
+  {
+    "objectID": "data_cleaning.html#estudiante",
+    "href": "data_cleaning.html#estudiante",
+    "title": "1 Preparación de datos",
+    "section": "1.5 Estudiante",
+    "text": "1.5 Estudiante\n\ndf_est = df.groupby(\"cedula_alumno\").agg({\n    \"nota_final\":\"mean\",\n    \"faltas_total\":\"mean\",\n    \"desercion\":\"max\"\n}).reset_index()"
+  },
+  {
+    "objectID": "data_cleaning.html#riesgo",
+    "href": "data_cleaning.html#riesgo",
+    "title": "1 Preparación de datos",
+    "section": "1.6 Riesgo",
+    "text": "1.6 Riesgo\n\ndf_est[\"riesgo\"] = (\n    (df_est[\"faltas_total\"] / df_est[\"faltas_total\"].max()) * 0.5 +\n    (1 - df_est[\"nota_final\"] / 10) * 0.5\n)"
+  },
+  {
+    "objectID": "data_cleaning.html#conclusión",
+    "href": "data_cleaning.html#conclusión",
+    "title": "1 Preparación de datos",
+    "section": "1.7 Conclusión",
+    "text": "1.7 Conclusión\nSe construyó una variable de riesgo académico basada en rendimiento y asistencia."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Deserción Estudiantil",
+    "section": "",
+    "text": "La deserción estudiantil constituye una problemática relevante en la educación superior, ya que impacta tanto en la trayectoria académica de los estudiantes como en los indicadores institucionales. Este proyecto tiene como propósito analizar patrones asociados a la deserción mediante el uso de variables académicas, específicamente el rendimiento y la asistencia.\nA través de técnicas de análisis de datos y visualización, se busca identificar comportamientos que permitan anticipar posibles casos de abandono, proporcionando así información útil para la toma de decisiones.\n\n\n\n\nAnalizar la deserción estudiantil mediante variables académicas para identificar patrones asociados al abandono.\n\n\n\n\nCaracterizar el comportamiento académico de los estudiantes\nAnalizar la relación entre faltas y rendimiento\nIdentificar niveles de riesgo académico\nVisualizar patrones de deserción\nApoyar la toma de decisiones institucional\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEl análisis se desarrolló en tres etapas principales:\n\nPreparación de datos Limpieza, transformación y construcción de variables clave como faltas totales y deserción.\nAnálisis y visualización Uso de gráficos interactivos para explorar relaciones entre variables.\nInterpretación Identificación de patrones de riesgo académico y posibles factores asociados a la deserción.\n\n\n\n\n\nEl presente proyecto se fundamenta en el modelo de visualización propuesto por Munzner, el cual estructura el análisis en cuatro niveles:\n\n\nEl problema se centra en la deserción estudiantil en educación superior.\n\n\n\nSe seleccionaron variables relevantes como:\n\nNota final\nFaltas\nEstado de retiro\n\nEstas variables representan el comportamiento académico.\n\n\n\nSe emplearon gráficos interactivos para representar:\n\nRelaciones entre variables\nDistribución de datos\nIdentificación de patrones\n\n\n\n\nSe construyó una variable de riesgo académico, combinando:\n\nRendimiento (nota)\nAsistencia (faltas)\n\nEsto permite pasar de un análisis binario a uno predictivo.\n\n\n\n\n\n\n\n\n\nProcesamiento y preparación del dataset.\n\n\n\n\n\nAnálisis mediante gráficos interactivos."
+  },
+  {
+    "objectID": "index.html#introducción",
+    "href": "index.html#introducción",
+    "title": "Deserción Estudiantil",
+    "section": "",
+    "text": "La deserción estudiantil constituye una problemática relevante en la educación superior, ya que impacta tanto en la trayectoria académica de los estudiantes como en los indicadores institucionales. Este proyecto tiene como propósito analizar patrones asociados a la deserción mediante el uso de variables académicas, específicamente el rendimiento y la asistencia.\nA través de técnicas de análisis de datos y visualización, se busca identificar comportamientos que permitan anticipar posibles casos de abandono, proporcionando así información útil para la toma de decisiones."
+  },
+  {
+    "objectID": "index.html#objetivo-general",
+    "href": "index.html#objetivo-general",
+    "title": "Deserción Estudiantil",
+    "section": "",
+    "text": "Analizar la deserción estudiantil mediante variables académicas para identificar patrones asociados al abandono."
+  },
+  {
+    "objectID": "index.html#objetivos-específicos",
+    "href": "index.html#objetivos-específicos",
+    "title": "Deserción Estudiantil",
+    "section": "",
+    "text": "Caracterizar el comportamiento académico de los estudiantes\nAnalizar la relación entre faltas y rendimiento\nIdentificar niveles de riesgo académico\nVisualizar patrones de deserción\nApoyar la toma de decisiones institucional"
+  },
+  {
+    "objectID": "index.html#metodología",
+    "href": "index.html#metodología",
+    "title": "Deserción Estudiantil",
+    "section": "",
+    "text": "El análisis se desarrolló en tres etapas principales:\n\nPreparación de datos Limpieza, transformación y construcción de variables clave como faltas totales y deserción.\nAnálisis y visualización Uso de gráficos interactivos para explorar relaciones entre variables.\nInterpretación Identificación de patrones de riesgo académico y posibles factores asociados a la deserción."
+  },
+  {
+    "objectID": "index.html#modelo-de-munzner-aplicado",
+    "href": "index.html#modelo-de-munzner-aplicado",
+    "title": "Deserción Estudiantil",
+    "section": "",
+    "text": "El presente proyecto se fundamenta en el modelo de visualización propuesto por Munzner, el cual estructura el análisis en cuatro niveles:\n\n\nEl problema se centra en la deserción estudiantil en educación superior.\n\n\n\nSe seleccionaron variables relevantes como:\n\nNota final\nFaltas\nEstado de retiro\n\nEstas variables representan el comportamiento académico.\n\n\n\nSe emplearon gráficos interactivos para representar:\n\nRelaciones entre variables\nDistribución de datos\nIdentificación de patrones\n\n\n\n\nSe construyó una variable de riesgo académico, combinando:\n\nRendimiento (nota)\nAsistencia (faltas)\n\nEsto permite pasar de un análisis binario a uno predictivo."
+  },
+  {
+    "objectID": "index.html#navegación-del-proyecto",
+    "href": "index.html#navegación-del-proyecto",
+    "title": "Deserción Estudiantil",
+    "section": "",
+    "text": "Procesamiento y preparación del dataset.\n\n\n\n\n\nAnálisis mediante gráficos interactivos."
+  }
+]

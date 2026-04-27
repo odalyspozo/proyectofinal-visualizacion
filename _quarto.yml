@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Deserción Estudiantil"
+
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - text: Inicio
+        href: index.qmd
+      - text: Limpieza de datos
+        href: data_cleaning.qmd
+      - text: Visualizaciones
+        href: visualizations.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

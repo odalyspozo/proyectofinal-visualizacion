@@ -1,0 +1,115 @@
+---
+title: "Análisis y Visualizaciones"
+format: html
+---
+
+# Análisis y Visualizaciones
+
+El análisis aborda la deserción como un fenómeno gradual asociado al rendimiento académico y la asistencia. Aunque la deserción observada es baja en términos absolutos, se construyó una variable de riesgo académico que permite identificar patrones potenciales de abandono en función del rendimiento y la asistencia.
+
+---
+
+## Pregunta 1. ¿Cómo se relacionan la asistencia y el rendimiento académico con el riesgo de deserción?
+
+<div class="section-box">
+Se utiliza un diagrama de dispersión para examinar simultáneamente la relación entre faltas, nota final y riesgo académico, permitiendo identificar patrones no lineales y zonas críticas.
+</div>
+
+<div class="card">
+<iframe src="graficos/graph01.html" width="100%" height="600"></iframe>
+</div>
+
+<div class="section-box">
+<b>Interpretación</b><br>
+Se observa una relación inversa entre asistencia y rendimiento: a medida que aumentan las faltas, disminuye la nota final. La variable de riesgo intensifica esta relación, evidenciando que estudiantes con alta inasistencia y bajo rendimiento se concentran en zonas de mayor vulnerabilidad académica.<br><br>
+<b>Conclusión</b><br>
+La asistencia constituye un determinante clave del rendimiento y, en conjunto, ambos factores configuran un patrón consistente de riesgo académico.
+</div>
+
+---
+
+## Pregunta 2. ¿Existen concentraciones específicas de riesgo académico dentro del conjunto de estudiantes?
+
+<div class="section-box">
+Se emplea un gráfico de densidad o dispersión avanzada para identificar clusters o agrupaciones de estudiantes con comportamientos similares.
+</div>
+
+<div class="card">
+<iframe src="graficos/graph02.html" width="100%" height="600"></iframe>
+</div>
+
+<div class="section-box">
+<b>Interpretación</b><br>
+Se identifican agrupaciones diferenciadas de estudiantes: un grupo con alto rendimiento y baja inasistencia, y otro con características opuestas. Estas concentraciones sugieren heterogeneidad en los patrones académicos.<br><br>
+<b>Conclusión</b><br>
+El riesgo no se distribuye de manera uniforme, sino que se concentra en subconjuntos específicos de estudiantes.
+</div>
+
+---
+
+## Pregunta 3. ¿Cómo se distribuye el riesgo académico en la población estudiantil?
+
+<div class="section-box">
+Se utiliza un histograma o distribución suavizada para analizar la forma de la variable de riesgo.
+</div>
+
+<div class="card">
+<iframe src="graficos/graph03.html" width="100%" height="600"></iframe>
+</div>
+
+<div class="section-box">
+<b>Interpretación</b><br>
+La distribución del riesgo presenta asimetría, con mayor concentración en niveles bajos y una cola hacia valores altos, lo que indica la presencia de casos críticos aunque menos frecuentes.<br><br>
+<b>Conclusión</b><br>
+El fenómeno de riesgo académico es minoritario en términos extremos, pero relevante para la intervención focalizada.
+</div>
+
+---
+
+## Pregunta 4. ¿Qué diferencias existen en el riesgo académico según la carrera?
+
+<div class="section-box">
+Se analiza la variación del riesgo por carrera mediante visualización comparativa, destacando diferencias estructurales entre programas académicos.
+</div>
+
+<div class="card">
+<iframe src="graficos/graph04.html" width="100%" height="600"></iframe>
+</div>
+
+<div class="section-box">
+<b>Interpretación</b><br>
+Se observan diferencias significativas entre carreras, lo que sugiere que factores curriculares, carga académica o contexto influyen en el comportamiento del estudiante.<br><br>
+<b>Conclusión</b><br>
+El riesgo académico presenta variaciones estructurales asociadas a la carrera, lo que justifica estrategias diferenciadas.
+</div>
+
+---
+
+## Pregunta 5. ¿Cómo varía el riesgo académico a lo largo de los niveles de formación?
+
+<div class="section-box">
+Se evalúa la evolución del riesgo por nivel académico para identificar etapas críticas dentro del proceso formativo.
+</div>
+
+<div class="card">
+<iframe src="graficos/graph05.html" width="100%" height="600"></iframe>
+</div>
+
+<div class="section-box">
+<b>Interpretación</b><br>
+Se identifican niveles donde el riesgo aumenta, posiblemente asociados a transiciones académicas o incremento en la complejidad de contenidos.<br><br>
+<b>Conclusión</b><br>
+Existen etapas críticas en la trayectoria académica donde el riesgo se incrementa, lo que permite focalizar intervenciones institucionales.
+</div>
+
+---
+
+## Conclusión general
+
+<div class="highlight">
+El análisis confirma que la deserción no debe entenderse únicamente como un evento final, sino como un proceso gradual vinculado al desempeño académico. La integración de variables de asistencia y rendimiento permite construir una medida robusta de riesgo, útil para la toma de decisiones institucionales.
+</div>
+
+<footer style="text-align:center; margin-top:40px;">
+Odalys Pozo
+</footer>

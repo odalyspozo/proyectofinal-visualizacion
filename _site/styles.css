@@ -1,0 +1,45 @@
+/* ===== SIDEBAR ===== */
+.sidebar {
+  width: 270px;
+  background-color: #1f3c88;
+}
+
+.sidebar .nav-link {
+  color: white;
+  font-size: 16px;
+  padding: 12px;
+}
+
+.sidebar .nav-link:hover {
+  background-color: #163172;
+  border-radius: 6px;
+}
+
+/* ===== TITULOS ===== */
+h1 {
+  color: #1f3c88;
+  font-weight: bold;
+}
+
+h2 {
+  color: #163172;
+}
+
+/* ===== TARJETAS ===== */
+.card-box {
+  padding: 25px;
+  border-radius: 12px;
+  background: #f5f7fa;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.05);
+  text-align: center;
+}
+
+/* ===== CONTENIDO ===== */
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* ===== QUITAR PANEL DERECHO ===== */
+#quarto-margin-sidebar {
+  display: none;
+}

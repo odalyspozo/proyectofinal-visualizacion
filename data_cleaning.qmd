@@ -1,0 +1,64 @@
+---
+title: "Limpieza de datos"
+format: html
+toc: false
+---
+
+# Preparación de datos
+
+Este módulo prepara el dataset para el análisis.
+
+## Carga
+
+```{python}
+import pandas as pd
+
+df = pd.read_excel("C:/Users/ACER/Desktop/visualizacion_proyecto/DATASET UNIANDES.xlsx")
+df.head()
+```
+
+## Normalización
+
+```{python}
+df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
+```
+
+## Limpieza
+
+```{python}
+df["nota_final"] = pd.to_numeric(df["nota_final"], errors="coerce")
+df = df.dropna(subset=["nota_final"])
+df = df[(df["nota_final"] >= 0) & (df["nota_final"] <= 10)]
+```
+
+## Variables
+
+```{python}
+faltas_cols = ["faltas","faltas2","faltas3","faltas4"]
+
+df["faltas_total"] = df[faltas_cols].sum(axis=1)
+df["desercion"] = df["retirado"].astype(str).str.upper().map({"T":1,"F":0})
+```
+
+## Estudiante
+
+```{python}
+df_est = df.groupby("cedula_alumno").agg({
+    "nota_final":"mean",
+    "faltas_total":"mean",
+    "desercion":"max"
+}).reset_index()
+```
+
+## Riesgo
+
+```{python}
+df_est["riesgo"] = (
+    (df_est["faltas_total"] / df_est["faltas_total"].max()) * 0.5 +
+    (1 - df_est["nota_final"] / 10) * 0.5
+)
+```
+
+## Conclusión
+
+Se construyó una variable de riesgo académico basada en rendimiento y asistencia.

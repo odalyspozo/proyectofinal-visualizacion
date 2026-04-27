@@ -1,0 +1,23 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+.card {
+  background: linear-gradient(135deg, #ffffff, #eef2f7);
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+
+.section-box {
+  background: #f8fafc;
+  padding: 20px;
+  border-left: 5px solid #1f3c5c;
+  border-radius: 8px;
+}
+
+.highlight {
+  background: #e6fffa;
+  padding: 15px;
+  border-left: 5px solid #38b2ac;
+}
